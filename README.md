@@ -1,7 +1,6 @@
-
 # NIOY / JADELKA / JAIRO
 
-Progrado simplemente 
+Un Simple Programador Más
 
 <img src="https://i.ibb.co/8YGrxqJ/banner.png" alt="Logo" style="width: 100%; height: 30%; object-fit: cover;">
 
