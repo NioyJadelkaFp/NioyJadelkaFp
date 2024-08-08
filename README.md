@@ -3,7 +3,7 @@
 
 Progrado simplemente 
 
-<img src="https://i.ibb.co/8YGrxqJ/banner.png" alt="Logo" style="width: 100%; height: 300px; object-fit: cover;">
+<img src="https://i.ibb.co/8YGrxqJ/banner.png" alt="Logo" style="width: 100%; height: 30%; object-fit: cover;">
 
 
 ## 🛠 Skills
