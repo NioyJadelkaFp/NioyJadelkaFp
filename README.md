@@ -27,5 +27,5 @@ Progrado simplemente
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=&logoColor=white)](https://nioywebsv.netlify.app/)
 
-[![discord](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dZ5jY3cBEm)
+[![discord](https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dZ5jY3cBEm)
 
